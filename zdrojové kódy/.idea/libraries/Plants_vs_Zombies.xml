@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Plants_vs_Zombies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Plants_vs_Zombies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
